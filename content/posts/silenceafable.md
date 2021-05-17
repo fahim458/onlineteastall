@@ -1,5 +1,5 @@
 ---
-title: "Silence - a fable"
+title: "Silence - A Fable"
 description : "Edgar Allan Poe"
 date: 2021-05-17T19:14:39+06:00
 draft: false
