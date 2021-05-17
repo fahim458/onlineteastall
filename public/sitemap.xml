@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/</loc>
+    <loc>http://onlineteastall.netlify.app/</loc>
     <lastmod>2021-05-17T19:14:39+06:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/</loc>
+    <loc>http://onlineteastall.netlify.app/posts/</loc>
     <lastmod>2021-05-17T19:14:39+06:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/tags/short-story/</loc>
+    <loc>http://onlineteastall.netlify.app/tags/short-story/</loc>
     <lastmod>2021-05-17T19:14:39+06:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/silenceafable/</loc>
+    <loc>http://onlineteastall.netlify.app/posts/silenceafable/</loc>
     <lastmod>2021-05-17T19:14:39+06:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>http://onlineteastall.netlify.app/tags/</loc>
     <lastmod>2021-05-17T19:14:39+06:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>http://onlineteastall.netlify.app/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>http://onlineteastall.netlify.app/series/</loc>
   </url>
   
 </urlset>

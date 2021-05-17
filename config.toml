@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "http://onlineteastall.netlify.app"
 title        = "Online Tea Stall"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Online tea stall</title>
-        <link>localhost/posts/</link>
+        <link>http://onlineteastall.netlify.app/posts/</link>
         <description>Recent content in Posts on Online tea stall</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Mon, 17 May 2021 19:14:39 +0600</lastBuildDate>
-        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://onlineteastall.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Silence - a fable</title>
-            <link>localhost/posts/silenceafable/</link>
+            <title>Silence - A Fable</title>
+            <link>http://onlineteastall.netlify.app/posts/silenceafable/</link>
             <pubDate>Mon, 17 May 2021 19:14:39 +0600</pubDate>
             
-            <guid>localhost/posts/silenceafable/</guid>
+            <guid>http://onlineteastall.netlify.app/posts/silenceafable/</guid>
             <description>&amp;ldquo;Listen to me,&amp;rdquo; said the Demon, as he placed his hand upon my head. &amp;ldquo;There is a spot upon this accursed earth which thou hast never yet beheld And if by any chance thou hast beheld it, it must have been in one of those vigorous dreams which come like the Simoon upon the brain of the sleeper who hath lain down to sleep among the forbidden sunbeams &amp;ndash;among the sunbeams, I say, which slide from off the solemn columns of the melancholy temples in the wilderness.</description>
             <content type="html"><![CDATA[<p>&ldquo;Listen to me,&rdquo; said the Demon, as he placed his hand upon my head. &ldquo;There is a spot upon this accursed earth which thou hast never yet beheld And if by any chance thou hast beheld it, it must have been in one of those vigorous dreams which come like the Simoon upon the brain of the sleeper who hath lain down to sleep among the forbidden sunbeams &ndash;among the sunbeams, I say, which slide from off the solemn columns of the melancholy temples in the wilderness. The region of which I speak is a dreary region in Libya, by the borders of the river Zaire. And there is no quiet there, nor silence.</p>
 <p>&ldquo;The waters of the river have a saffron and sickly hue &ndash;and they flow not onwards to the sea, but palpitate forever and forever beneath the red eye of the sun with a tumultuous and convulsive motion. For many miles on either side of the river&rsquo;s oozy bed is a pale desert of gigantic water-lilies. They sigh one unto the other in that solitude, and stretch towards the heaven their long ghastly necks, and nod to and fro their everlasting heads. And there is an indistinct murmur which cometh out from among them like the rushing of subterrene water. And they sigh one unto the other.</p>
