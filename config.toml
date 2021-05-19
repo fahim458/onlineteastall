@@ -18,9 +18,11 @@ paginate     = 10
 
   # Enable sharing buttons, if you like
   enableSharingButtons = true
-
+  
+  # Enable theme toggle
+   enableThemeToggle = true
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "A place for short stories"
   keywords = "homepage, blog"
   images = [""]
 
@@ -50,3 +52,7 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+[[menu.main]]
+    identifier = "writers"
+    name       = "Writers"
+    url        = "/writers"
