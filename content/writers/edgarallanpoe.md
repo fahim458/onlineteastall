@@ -1,5 +1,5 @@
 ---
-title: "Stories By Edgar Allan Poe"
+title: "Edgar Allan Poe"
 date: 2021-05-19T14:17:56+06:00
 draft: false
 ---
